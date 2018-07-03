@@ -1,0 +1,8 @@
+{
+  "name": "tescht",
+  "app_id": "7853f61b",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
